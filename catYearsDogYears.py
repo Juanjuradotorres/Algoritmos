@@ -1,3 +1,7 @@
+'''
+este programa nos ayuda para analizar la edad de los aniamles
+'''
+
 def animal_years(humanYears):
     # Inicializamos las edades en años de gato y perro
     catYears = 0
