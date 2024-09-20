@@ -1,5 +1,5 @@
 '''
-este programa nos ayuda para analizar la edad de los aniamles
+este programa nos ayuda para analizar la edad de los aniamles.
 '''
 
 def animal_years(humanYears):
