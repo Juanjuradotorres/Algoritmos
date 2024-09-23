@@ -1,3 +1,4 @@
+'''este ejercico nos ayuda '''
 import math
 
 
