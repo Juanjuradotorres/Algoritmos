@@ -1,3 +1,4 @@
+'''Recorta una imagen manteniendo su relación de aspecto.'''
 import math
 
 def convert_to_16_9_resolution(x, y):

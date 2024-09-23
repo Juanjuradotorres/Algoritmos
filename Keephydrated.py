@@ -1,3 +1,4 @@
+'''Calcula cuánta agua debes beber según el tiempo de actividad física.'''
 import math
 
 def litres(time):

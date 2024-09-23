@@ -1,4 +1,4 @@
-'''este programa hace convertir dolares a yein'''
+'''Convierte dólares estadounidenses a yuanes chinos.'''
 def usd_to_cny(usd):
     # Realiza la conversión de USD a CNY
     cny = usd * 6.75

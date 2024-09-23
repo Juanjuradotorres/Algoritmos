@@ -1,3 +1,4 @@
+'''Calcula la presión total de un sistema, usualmente usando gases ideales.'''
 def total_pressure(M1, M2, m1, m2, V, T):
     # Constante del gas en unidades apropiadas
     R = 0.082

@@ -1,4 +1,4 @@
-'''este ejercico nos ayuda '''
+'''Calcula el rango de edades compatibles para relaciones.'''
 import math
 
 

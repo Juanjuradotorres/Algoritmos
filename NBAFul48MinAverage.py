@@ -1,3 +1,4 @@
+'''Calcula estadísticas de un jugador como si jugara los 48 minutos.'''
 def nba_extrap(ppg, mpg):
     # Manejar el caso en el que mpg es 0
     if mpg == 0:

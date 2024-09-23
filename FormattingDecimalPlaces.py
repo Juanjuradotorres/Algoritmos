@@ -1,3 +1,4 @@
+'''Formatea un número decimal a un número específico de decimales.'''
 def format_number(number):
     # Redondear el número a dos decimales
     return round(number, 2)

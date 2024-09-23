@@ -1,3 +1,4 @@
+'''Calcula el precio de mangos aplicando descuentos por promociones.'''
 def mango(quantity, price):
     # Calcula cuántos mangos se pagan y cuántos son gratis
     paid_mangoes = (quantity // 3) * 2 + (quantity % 3)
